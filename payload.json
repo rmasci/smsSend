@@ -1,0 +1,12 @@
+{
+  "from": "+1YOUR_ACS_NUMBER",
+  "message": "Your SMS message",
+  "smsRecipients": [
+    {
+      "to": "+1RECIPIENT_NUMBER"
+    }
+  ],
+  "smsSendOptions": {
+    "enableDeliveryReport": true
+  }
+}
